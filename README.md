@@ -65,7 +65,7 @@ AgendaContactos/
 1. Clona el repositorio:
 
 ```bash
-git clone https://github.com/tuusuario/AgendaContactos.git
+git clone [https://github.com/tuusuario/AgendaContactos.git](https://github.com/manuelchoez/ContactManagement.git)
 cd ContactManagemet.Cli
 ```
 
