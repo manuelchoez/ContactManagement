@@ -1,11 +1,11 @@
-# 📒 Agenda de Contactos - Proyecto en C# con .NET 9
+# Agenda de Contactos - Proyecto en C# con .NET 9
 
 Este proyecto es una **aplicación de consola limpia y moderna en C# y .Net 9** que permite gestionar una agenda de contactos (crear, listar, editar, buscar y eliminar). 
 Se ha desarrollado siguiendo buenas prácticas de diseño de software como **inmutabilidad**, **inyección de dependencias**, **separación por capas** y uso de características avanzadas de C#.
 
 ---
 
-## 🚀 Tecnologías y herramientas utilizadas
+## Tecnologías y herramientas utilizadas
 
 - ✅ **.NET Core 9** 
 - ✅ **C# 9+**
@@ -16,7 +16,7 @@ Se ha desarrollado siguiendo buenas prácticas de diseño de software como **inm
 
 ---
 
-## 🎯 Funcionalidades principales
+## Funcionalidades principales
 
 - Agregar nuevos contactos
 - Listar todos los contactos
@@ -27,7 +27,7 @@ Se ha desarrollado siguiendo buenas prácticas de diseño de software como **inm
 
 ---
 
-## 🧠 Conceptos y habilidades demostradas
+## Conceptos y habilidades demostradas
 
 | Habilidad                  | Aplicación en el proyecto                     |
 |---------------------------|-----------------------------------------------|
@@ -41,7 +41,7 @@ Se ha desarrollado siguiendo buenas prácticas de diseño de software como **inm
 
 ---
 
-## 📁 Estructura del proyecto
+## Estructura del proyecto
 
 ```
 AgendaContactos/
@@ -60,7 +60,7 @@ AgendaContactos/
 
 ---
 
-## ⚙️ Ejecución del proyecto
+## Ejecución del proyecto
 
 1. Clona el repositorio:
 
@@ -77,7 +77,7 @@ dotnet run
 
 ---
 
-## 🔄 Extensiones futuras 
+## Extensiones futuras 
 
 - 🔃 Persistencia en archivo JSON o base de datos
 - 🌐 Migración a API Web con ASP.NET Core
@@ -87,7 +87,7 @@ dotnet run
 
 ---
 
-## 🧑‍💻 Autor
+## Autor
 
 **Manuel Choez**  
 [GitHub](https://github.com/manuelchoez) | [LinkedIn](www.linkedin.com/in/tchoez)
