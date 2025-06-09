@@ -77,17 +77,17 @@ dotnet run
 
 ---
 
-## 🔄 Extensiones futuras (siguientes pasos)
+## 🔄 Extensiones futuras 
 
 - 🔃 Persistencia en archivo JSON o base de datos
 - 🌐 Migración a API Web con ASP.NET Core
 - 🧪 Pruebas unitarias con xUnit y Moq
-- 🧩 Interfaz gráfica (WinForms, MAUI o Blazor)
+- 🧩 Interfaz gráfica 
 - 🔐 Validación y manejo de errores con FluentValidation
 
 ---
 
 ## 🧑‍💻 Autor
 
-**Tu Nombre**  
+**Manuel Choez**  
 [GitHub](https://github.com/manuelchoez) | [LinkedIn](www.linkedin.com/in/tchoez)
